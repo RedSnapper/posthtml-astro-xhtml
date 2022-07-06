@@ -1,0 +1,19 @@
+{
+  "name": "@redsnapper/posthtml-astro-xhtml",
+  "version": "1.0.0",
+  "description": "Transform astro html to xhtml compiant markup",
+  "main": "lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedSnapper/posthtml-astro-xhtml.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RedSnapper/posthtml-astro-xhtml-/issues"
+  },
+  "homepage": "https://github.com/RedSnapper/posthtml-astro-xhtml-#readme"
+}
